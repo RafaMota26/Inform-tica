@@ -11,3 +11,6 @@ Trabalho executado via Canva: Figuras
 
 
  [balancete_receita.xlsx](https://github.com/user-attachments/files/25616677/balancete_receita.xlsx)
+
+ <img width="637" height="420" alt="image" src="https://github.com/user-attachments/assets/ee5430d5-75ca-4256-8521-66560c524658" />
+
