@@ -22,3 +22,7 @@ Trabalho executado via Canva: Figuras
  
  [despesa_funcao.csv](https://github.com/user-attachments/files/25957108/despesa_funcao.csv)
 
+  #Atividade: Despesa e Fornecedor
+
+Captura%20de%20tela%202026-03-13%20201832.png
+
