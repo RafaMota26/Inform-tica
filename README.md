@@ -24,5 +24,5 @@ Trabalho executado via Canva: Figuras
 
   #Atividade: Despesa e Fornecedor
 
-Captura%20de%20tela%202026-03-13%20201832.png
+file:///C:/Users/Fatec/Pictures/Captura%20de%20tela%202026-03-13%20201832.png
 
