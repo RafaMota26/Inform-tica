@@ -23,5 +23,6 @@ Trabalho executado via Canva: Figuras
  [despesa_funcao.csv](https://github.com/user-attachments/files/25957108/despesa_funcao.csv)
 
   #Atividade: Despesa e Fornecedor
-  
+
+
 https://github.com/RafaMota26/Inform-tica/commit/1ad8673e05bfd980ad473a1add8a71138b04b66d
