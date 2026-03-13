@@ -23,6 +23,5 @@ Trabalho executado via Canva: Figuras
  [despesa_funcao.csv](https://github.com/user-attachments/files/25957108/despesa_funcao.csv)
 
   #Atividade: Despesa e Fornecedor
-
-file:///C:/Users/Fatec/Pictures/Captura%20de%20tela%202026-03-13%20201832.png
-
+  
+https://github.com/RafaMota26/Inform-tica/commit/1ad8673e05bfd980ad473a1add8a71138b04b66d
