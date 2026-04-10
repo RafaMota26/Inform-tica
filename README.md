@@ -26,3 +26,8 @@ Trabalho executado via Canva: Figuras
 
 
 https://github.com/RafaMota26/Inform-tica/commit/1ad8673e05bfd980ad473a1add8a71138b04b66d
+
+# Atividade: dados de multas pagas
+
+[multas_pagas.xlsx](https://github.com/user-attachments/files/26618099/multas_pagas.xlsx)
+
