@@ -22,7 +22,7 @@ Trabalho executado via Canva: Figuras
  
  [despesa_funcao.csv](https://github.com/user-attachments/files/25957108/despesa_funcao.csv)
 
-  #Atividade: Despesa e Fornecedor
+  # Atividade: Despesa e Fornecedor
 
 
 https://github.com/RafaMota26/Inform-tica/commit/1ad8673e05bfd980ad473a1add8a71138b04b66d
@@ -30,4 +30,9 @@ https://github.com/RafaMota26/Inform-tica/commit/1ad8673e05bfd980ad473a1add8a711
 # Atividade: dados de multas pagas
 
 [multas_pagas.xlsx](https://github.com/user-attachments/files/26618099/multas_pagas.xlsx)
+
+# Atividade: dados de multas pagas (cinco perguntas)
+
+[censo2022_favelas (1).xlsx](https://github.com/user-attachments/files/26800201/censo2022_favelas.1.xlsx)
+
 
