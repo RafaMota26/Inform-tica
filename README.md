@@ -35,4 +35,8 @@ https://github.com/RafaMota26/Inform-tica/commit/1ad8673e05bfd980ad473a1add8a711
 
 [censo2022_favelas (1).xlsx](https://github.com/user-attachments/files/26800201/censo2022_favelas.1.xlsx)
 
+# Certificado de Conclusão de Curso
+
+![Uploading image.png…]()
+
 
