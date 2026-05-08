@@ -41,6 +41,6 @@ https://github.com/RafaMota26/Inform-tica/commit/1ad8673e05bfd980ad473a1add8a711
 
 # Atividade: Power BI de sinistros em SP Janeiro/2026 (arquivo adicionado)
 
-# Base e municipios (Power BI)
+# Base e municipios (Power BI) (arquivo adicionado)
 
 
