@@ -37,8 +37,10 @@ https://github.com/RafaMota26/Inform-tica/commit/1ad8673e05bfd980ad473a1add8a711
 
 # Certificado de Conclusão de Curso
 
-
-
 <img width="1121" height="765" alt="Captura de tela 2026-04-17 191539" src="https://github.com/user-attachments/assets/bd0b9cfe-a6ab-482b-84d4-0b503f7bc7eb" />
 
 # Atividade: Power BI de sinistros em SP Janeiro/2026 (arquivo adicionado)
+
+# Base e municipios (Power BI)
+
+
