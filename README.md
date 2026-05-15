@@ -43,4 +43,10 @@ https://github.com/RafaMota26/Inform-tica/commit/1ad8673e05bfd980ad473a1add8a711
 
 # Base e municipios (Power BI) (arquivo adicionado)
 
+# Atividade Venda de Sorvete e Temperatura
+[Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/27783065/Ice.Cream.Sales.-.temperatures.xlsx)
+
+<img width="1263" height="687" alt="image" src="https://github.com/user-attachments/assets/a2c112f5-2d74-4374-8b66-69f09f82a00d" />
+
+
 
