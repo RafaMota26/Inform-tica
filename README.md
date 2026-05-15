@@ -52,6 +52,14 @@ https://github.com/RafaMota26/Inform-tica/commit/1ad8673e05bfd980ad473a1add8a711
 
 <img width="854" height="548" alt="image" src="https://github.com/user-attachments/assets/1ee3d5a9-baaa-4857-8739-77562a3397cc" />
 
+# Atividade Vinho Vermelho (Arquivo adicionado)
+
+<img width="630" height="477" alt="image" src="https://github.com/user-attachments/assets/358d0aa8-7840-4f0f-9357-f04970929fd6" />
+
+# Atividade Vinho Vermelho regressão linear colab/kaggle
+
+<img width="878" height="569" alt="image" src="https://github.com/user-attachments/assets/7cda096d-39d9-4dee-8993-f973e7fcf5e3" />
+
 
 
 
