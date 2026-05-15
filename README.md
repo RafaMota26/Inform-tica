@@ -48,5 +48,10 @@ https://github.com/RafaMota26/Inform-tica/commit/1ad8673e05bfd980ad473a1add8a711
 
 <img width="1263" height="687" alt="image" src="https://github.com/user-attachments/assets/a2c112f5-2d74-4374-8b66-69f09f82a00d" />
 
+# Atividade Github Sorvete (arquivo adicionado)
+
+<img width="854" height="548" alt="image" src="https://github.com/user-attachments/assets/1ee3d5a9-baaa-4857-8739-77562a3397cc" />
+
+
 
 
