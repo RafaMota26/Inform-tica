@@ -60,6 +60,9 @@ https://github.com/RafaMota26/Inform-tica/commit/1ad8673e05bfd980ad473a1add8a711
 
 <img width="878" height="569" alt="image" src="https://github.com/user-attachments/assets/7cda096d-39d9-4dee-8993-f973e7fcf5e3" />
 
+# Atividade Temperatura de Cerveja/Sorvete Power BI (Arquivo adicionado)
+
+<img width="1433" height="800" alt="image" src="https://github.com/user-attachments/assets/8bdf9224-cede-4e7b-9230-4a5973523662" />
 
 
 
