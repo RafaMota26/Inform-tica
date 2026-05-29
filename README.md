@@ -64,6 +64,8 @@ https://github.com/RafaMota26/Inform-tica/commit/1ad8673e05bfd980ad473a1add8a711
 
 <img width="1433" height="800" alt="image" src="https://github.com/user-attachments/assets/8bdf9224-cede-4e7b-9230-4a5973523662" />
 
-# Power BI da prova: (Arquivo A dicionado)
+# Power BI da prova: (Arquivo Adicionado)
+
+<img width="1320" height="739" alt="image" src="https://github.com/user-attachments/assets/5a6681ae-0892-41a6-b800-845c8732e68e" />
 
 
